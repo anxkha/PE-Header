@@ -1,0 +1,12 @@
+In order to build you must have at the very least the Microsoft Visual C++
+compiler and the latest Windows SDK installed. Modification of build.cmd
+may be necessary if the installation locations are different than stated
+in build.cmd
+
+LICENSE: The code may be used freely, but I ask that credit is given where
+due if code is reused.
+
+DISCLAIMER: Building with any other compiler besides the Microsoft compiler
+is not supported and is done at your own risk. I am not responsible for
+corruption or issues that result from tampering with the code or the build
+process.
