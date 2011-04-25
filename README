@@ -1,7 +1,7 @@
 In order to build you must have at the very least the Microsoft Visual C++
-compiler and the latest Windows SDK installed. Modification of build.cmd
+compiler and the latest Windows SDK installed. Modification of the makefile
 may be necessary if the installation locations are different than stated
-in build.cmd
+in the makefile.
 
 LICENSE: The code may be used freely, but I ask that credit is given where
 due if code is reused.

@@ -114,10 +114,10 @@ struct SECTIONHEADER
 struct IMPORTTABLE
 {
 	unsigned long  ImportTableAddress;
-	unsinged long  TimeDateStamp;
+	unsigned long  TimeDateStamp;
 	unsigned long  ForwarderChain;
-	unsinged long  NameAddress;
-	unsinged long  ThunkTableAddress;
+	unsigned long  NameAddress;
+	unsigned long  ThunkTableAddress;
 };
 
 struct IMPORTENTRY
